@@ -2,9 +2,16 @@
     background-color: grey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+#options {
+    display: block;
+    margin: 5px;
+    text-align: center;
+    padding: 5px
+}
 h1 ,h3, h4 {
     background-color: white;
     text-align: center;
+    padding: 12px 8px;
 }
 
 a {
@@ -13,5 +20,14 @@ a {
 }
 
 img {
-    align-items: center;
+    display: block;
+    margin: auto;
+}
+
+li {
+    background-color: lightgreen;
+}
+
+p {
+    background-color: aqua;
 }
